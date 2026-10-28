@@ -34,3 +34,13 @@ hr {
 footer {
      margin-top: 20px;
 }
+.box1{
+    font-family: cursive;
+    border: black solid;
+    background-color: bisque;
+}
+.box2{
+    font-family: cursive;
+    border: black solid;
+    background-color:blueviolet;
+}
